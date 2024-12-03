@@ -1,2 +1,2 @@
 # scailx-ai-portal
-public release repo for scailx ai portsal application.
+public release repo for scailx ai portal application.
